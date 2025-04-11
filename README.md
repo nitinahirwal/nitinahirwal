@@ -3,20 +3,24 @@
 ## 💫 About Me:
 
 <b>🔭 I’m currently working on:</b>
-Full Stack Dev (MERN + NextJs) & Shopify Development.
+
+Building cutting-edge Full Stack applications with modern tech stacks and running a homelab for DevOps experimentation.
 
 <b>👯 I’m looking to collaborate on:</b>
-NextJs, Web3(Solana) & Shopify projects.
+
+Innovative projects involving Full Stack development, DevOps pipelines, and emerging technologies.
 
 <b>🌱 I’m currently learning:</b>
-DevOps, Web3 Solana & Shopify App Development.
+
+Advanced DevOps practices, cloud-native architectures, and the latest in modern tech stacks.
 
 <b>💬 Ask me about:</b>
-Shopify Liquid, Shopify Plus & Shopify Stores, TypeScript, JavaScript, NextJs & any general software development questions.
+
+Full Stack development, DevOps, homelab setups, modern JavaScript frameworks, or any tech-related challenge!
 
 <b>⚡ Fun fact:</b>
-I love coding.
 
+I run a homelab that’s basically my tech playground—think servers, containers, and endless tinkering!
 ## Technologies
 
 <table>
