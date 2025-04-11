@@ -1,4 +1,4 @@
-## Hey, I'm CoderOm! 👋
+## Hey, I'm Nitin Ahirwal! 👋
 
 ## 💫 About Me:
 
