@@ -45,6 +45,7 @@ Technologies
  </td> 
  </tr> 
  </table> <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=22C55E,D45E1B"/></p>
+
 ## Social Handles
 
 <div style="display: flex; justify-content: start; align-items: center; gap: 20px; width: 100%;">
