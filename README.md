@@ -81,9 +81,7 @@ Technologies
     <a href="https://nitinahirwal.in/" target="_blank">
       <img src="https://img.shields.io/badge/Full Stack Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="twitter" />
     </a>
-    <a href="https://shopify-developer.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Shopify Portfolio-95bf47?style=for-the-badge&logo=shopify&logoColor=white" alt="portfolio" />
-    </a>
+    
     <a href="https://omsharma.vercel.app/OmSharma_Nov2024.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=doc&logoColor=white" alt="Resume" />
     </a>
