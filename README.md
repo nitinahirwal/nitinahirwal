@@ -23,28 +23,8 @@ Full Stack development, DevOps, homelab setups, modern JavaScript frameworks, or
 I run a homelab that’s basically my tech playground—think servers, containers, and endless tinkering!
 ## Technologies
 
-<table>
-<tr>
-    <td><strong>Languages</strong></td>
-    <td><strong>Frontend</strong></td>
-</tr>
-<tr>
-    <td style="display: flex; "><img src="https://skillicons.dev/icons?i=js,ts,cs&theme=light">
-    <img style="border-radius: 8px; width: 23%; height: 100%; margin-left: 10px;" src="https://img.shields.io/badge/-95bf47?style=for-the-badge&logo=shopify&logoColor=white"></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=light"></td>
-</tr>
-<tr>
-    <td><strong>Backend & Databases</strong></td>
-    <td><strong>Tools & Platforms</strong></td>
-</tr>
-<tr>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,postgresql,dotnet&theme=light"></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,git,figma,nginx,postman&theme=light"></td>
-</tr>
-</table>
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=22C55E,D45E1B"/></p>
-
+Technologies
+<table> <tr> <td><strong>Languages</strong></td> <td><strong>Frontend</strong></td> </tr> <tr> <td><img src="https://skillicons.dev/icons?i=js,ts,python,go&theme=light"></td> <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap&theme=light"></td> </tr> <tr> <td><strong>Backend & Databases</strong></td> <td><strong>DevOps & Tools</strong></td> </tr> <tr> <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis&theme=light"></td> <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,jenkins,nginx&theme=light"></td> </tr> </table> <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=22C55E,D45E1B"/></p>
 ## Social Handles
 
 <div style="display: flex; justify-content: start; align-items: center; gap: 20px; width: 100%;">
