@@ -24,29 +24,49 @@ I run a homelab that’s basically my tech playground—think servers, container
 ## Technologies
 
 Technologies
-<table> <tr> <td><strong>Languages</strong></td> <td><strong>Frontend</strong></td> </tr> <tr> <td><img src="https://skillicons.dev/icons?i=js,ts,python,go&theme=light"></td> <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap&theme=light"></td> </tr> <tr> <td><strong>Backend & Databases</strong></td> <td><strong>DevOps & Tools</strong></td> </tr> <tr> <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis&theme=light"></td> <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,jenkins,nginx&theme=light"></td> </tr> </table> <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=22C55E,D45E1B"/></p>
+<table>
+ <tr> 
+ <td><strong>Languages</strong>
+ </td> 
+ <td><strong>Frontend</strong>
+ </td> 
+ </tr> 
+ <tr> <td><img src="https://skillicons.dev/icons?i=js,ts,python,go&theme=light">
+ </td> 
+ <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap&theme=light">
+ </td> </tr> 
+ <tr> <td><strong>Backend & Databases</strong>
+ </td> 
+ <td><strong>DevOps & Tools</strong></td> 
+ </tr> 
+ <tr> <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis&theme=light">
+ </td> 
+ <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,jenkins,nginx&theme=light">
+ </td> 
+ </tr> 
+ </table> <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5&section=footer&reversal=true&colors=22C55E,D45E1B"/></p>
 ## Social Handles
 
 <div style="display: flex; justify-content: start; align-items: center; gap: 20px; width: 100%;">
-<a href="https://github.com/coderomm">
+<a href="https://github.com/nitinahirwalm">
         <img src="https://skillicons.dev/icons?i=github&theme=light" alt="Github" />
         </a>
-<a href="https://www.linkedin.com/in/1omsharma/">
+<a href="https://www.linkedin.com/in/nitinahirwal/">
         <img src="https://skillicons.dev/icons?i=linkedin&theme=light"
             alt="LinkedIn Badge" />
     </a>
-    <a href="https://x.com/1omsharma">
+    <a href="https://x.com/nitinahirwal_in">
         <img src="https://skillicons.dev/icons?i=twitter&theme=light"
             alt="Twitter" />
     </a>
-        <a href="mailto:mail.coderom@gmail.com">
+        <a href="mailto:contact@nitinahirwal.in">
         <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
         </a>
-        <a href="https://discord.com/channels/@coder.om">
+        <a href="https://discord.com/channels/@nitinahirwal">
         <img src="https://skillicons.dev/icons?i=discord&theme=light"
             alt="Discord" />
     </a>
-        <a href="https://www.instagram.com/coder.om/">
+        <a href="https://www.instagram.com/nitinahirwal_in/">
         <img src="https://skillicons.dev/icons?i=instagram&theme=light"
             alt="Instagram" />
     
