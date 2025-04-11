@@ -48,7 +48,7 @@ Technologies
 ## Social Handles
 
 <div style="display: flex; justify-content: start; align-items: center; gap: 20px; width: 100%;">
-<a href="https://github.com/nitinahirwalm">
+<a href="https://github.com/nitinahirwal">
         <img src="https://skillicons.dev/icons?i=github&theme=light" alt="Github" />
         </a>
 <a href="https://www.linkedin.com/in/nitinahirwal/">
